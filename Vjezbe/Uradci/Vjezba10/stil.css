@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	color: blue;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 18px;
+	widows: 600px;
+	background-color: navajowhite;
+	padding: 20px;
+	border: solid;
+	
+}
+h1,h2{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: aquamarine;
+}
+
+span{color: rgb(255,0,0);}
+.pozadina {
+	background-image: url(slike/37.jpg);
+	background-color: azure;
+}
+.drugapozadina {
+	background-color: aquamarine
+}
+a{
+	color: black;
+	background-color: white;
+	padding: 5px;
+	line-height: 40px;
+	border: 1px solid #2B2828;
+}
+a:hover{
+	background-color: gray;
+}
+img{
+	height: 200px;
+}
